@@ -1,1 +1,2 @@
-**Readme for git directory for zero day project**
+**Readme file for alx zero day project**
+starting to code 
